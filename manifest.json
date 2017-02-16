@@ -19,7 +19,7 @@
       "matches": [ "*://*/*" ],
       "run_at": "document_end"
    } ],
-   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; style-src 'self' 'unsafe-inline'; img-src 'self' *; connect-src *; media-src data: http://insttranslate.com; object-src 'self'",
+   "content_security_policy": "style-src 'self' 'unsafe-inline'; img-src 'self' *; connect-src *; object-src 'self'",
    "default_locale": "en",
    "description": "__MSG_Kernel_AppDescription__",
    "homepage_url": "https://insttranslate.com",
