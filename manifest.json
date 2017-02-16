@@ -1,0 +1,41 @@
+{
+   "author": "Twopeople Software e.U.",
+   "background": {
+      "page": "pages/internal/background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "resources/images/icons/icon19.png",
+         "38": "resources/images/icons/icon19@2x.png"
+      },
+      "default_popup": "pages/public/window.html",
+      "default_title": "__MSG_Kernel_AppName__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "resources/styles/pages/common/main.css", "resources/styles/pages/internal/content.css", "resources/styles/ui_components/tooltip/simple.css", "resources/styles/ui_components/tooltip/help.css", "resources/styles/ui_components/tooltip/helpSelected.css" ],
+      "js": [ "src/lib/jquery.js", "src/lib/prevel.js", "src/lib/jqEase.js", "src/lib/highlight.js", "src/kernel/kernel.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; style-src 'self' 'unsafe-inline'; img-src 'self' *; connect-src *; media-src data: http://insttranslate.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_Kernel_AppDescription__",
+   "homepage_url": "https://insttranslate.com",
+   "icons": {
+      "128": "resources/images/icons/icon128.png",
+      "16": "resources/images/icons/icon16.png",
+      "256": "resources/images/icons/icon128@2x.png",
+      "32": "resources/images/icons/icon16@2x.png",
+      "48": "resources/images/icons/icon48.png",
+      "96": "resources/images/icons/icon48@2x.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDkOqWNYxiJx8tna4iC3m5gof8gEaRmi4c/DzV3DL34xUHVvoIUuVMiEM2jUjtrP07l9y3BYiZFE6gJ+J9YiWDMEetzO8Rr6kfKz1q7rxVruC1Ov1HimngpG87Ke0BJvFx3i9m/cmw93VvuPjtFSK1mQiXAucfDroBDVthjos8bAQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_Kernel_AppName__",
+   "options_page": "pages/public/options.html",
+   "permissions": [ "*://*/*", "tabs", "contextMenus", "webRequest", "webNavigation", "webRequestBlocking", "storage", "unlimitedStorage", "cookies", "proxy" ],
+   "version": "3.1.3",
+   "web_accessible_resources": [ "/src/ext/ps/sovetnik-inject-content.js", "/src/ext/ps/sovetnik.min.js", "/src/ext/ps/sovetnik.opera.min.js", "/src/ext/ps/travelBar.js", "/src/ext/ps/mb.js", "/src/kernel/init.js", "/src/hub/content/router.js", "/src/hub/content/render.js", "/src/hub/content/handlers.js", "/src/ui_views/multi_variant.js", "/src/ext/tpl.js", "/src/ext/event.js", "/src/ext/util/selectorsUtil.js", "/src/ext/util/langUtil.js", "/src/particles/translate_ctt/tcModel.js", "/src/ui_components/tooltip/simple.js", "/src/ui_components/tooltip/help.js", "/src/templates/helpSelectedTooltip.js", "/src/templates/simpleTooltip.js", "/src/ui_components/tooltip/helpSelected.js", "/src/templates/helpTooltip.js", "/src/particles/scrollbars/sModel.js", "/src/ui_components/scrollbar/scrollbar.js", "/resources/styles/ui_components/tooltip/helpSelected.css", "/resources/styles/pages/common/main.css", "/resources/styles/pages/internal/content.css", "/resources/styles/ui_components/tooltip/simple.css", "/resources/styles/ui_components/tooltip/help.css", "/resources/images/sprites/sprite.png", "/src/particles/listen/lModel.js", "/src/ext/audio.js", "/src/ext/dom.js", "/resources/images/ui_elements/tt_swap.png", "/resources/images/ui_elements/tt_swap@2x.png", "/resources/images/ui_elements/google.png", "/resources/images/ui_elements/google@2x.png", "/resources/images/ui_elements/speaker_orig.png", "/resources/images/ui_elements/speaker_orig@2x.png", "/resources/images/ui_elements/unpin.png", "/resources/images/ui_elements/unpin@2x.png", "/resources/images/ui_elements/highlight.png", "/resources/images/ui_elements/highlight@2x.png", "/resources/images/ui_elements/speaker_big.png", "/resources/images/ui_elements/speaker_big@2x.png", "/resources/images/ui_elements/close_unpinned.png", "/resources/images/ui_elements/close_unpinned@2x.png", "/src/ext/googleApi.js", "/src/ext/util/storageUtil.js", "/src/ext/const/storage.js" ]
+}

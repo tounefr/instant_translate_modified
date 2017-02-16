@@ -1,0 +1,1037 @@
+{
+   "CommonUi_LangPart_Abbreviation": {
+      "message": "Сокращения"
+   },
+   "CommonUi_LangPart_Adjective": {
+      "message": "Прилагательные"
+   },
+   "CommonUi_LangPart_Adverb": {
+      "message": "Наречия"
+   },
+   "CommonUi_LangPart_Auxiliaryverb": {
+      "message": "Вспом. глаголы"
+   },
+   "CommonUi_LangPart_Conjunction": {
+      "message": "Союзы"
+   },
+   "CommonUi_LangPart_Interjection": {
+      "message": "Междометия"
+   },
+   "CommonUi_LangPart_Noun": {
+      "message": "Существительные"
+   },
+   "CommonUi_LangPart_Phrase": {
+      "message": "Фразы"
+   },
+   "CommonUi_LangPart_Preposition": {
+      "message": "Предлоги"
+   },
+   "CommonUi_LangPart_Pronoun": {
+      "message": "Местоимения"
+   },
+   "CommonUi_LangPart_Suffix": {
+      "message": "Суффиксы"
+   },
+   "CommonUi_LangPart_Transliteration": {
+      "message": "Транслитерация"
+   },
+   "CommonUi_LangPart_Verb": {
+      "message": "Глаголы"
+   },
+   "CommonUi_NoResults": {
+      "message": "Нет результатов"
+   },
+   "Csv_FromLang": {
+      "message": "С ЯЗЫКА"
+   },
+   "Csv_Input": {
+      "message": "ЧТО"
+   },
+   "Csv_IntoLang": {
+      "message": "НА ЯЗЫК"
+   },
+   "Csv_Synonyms": {
+      "message": "СИНОНИМЫ"
+   },
+   "Csv_TimeDate": {
+      "message": "ВРЕМЯ/ДАТА"
+   },
+   "Csv_Translation": {
+      "message": "ПЕРЕВОД"
+   },
+   "Csv_Transliteration": {
+      "message": "ТРАНСЛИТ"
+   },
+   "Csv_WhereTranslated": {
+      "message": "ГДЕ ПЕРЕВЕДЕНО"
+   },
+   "History_Content_GoUpButton": {
+      "message": "Наверх"
+   },
+   "History_Content_List_AllLoaded": {
+      "message": "Больше ничего нет."
+   },
+   "History_Content_List_CollapseButton": {
+      "message": "Свернуть"
+   },
+   "History_Content_List_DeleteButton": {
+      "message": "Удалить"
+   },
+   "History_Content_List_ExpandButton": {
+      "message": "Развернуть"
+   },
+   "History_Content_List_ListenOriginal": {
+      "message": "Прослушать оригинал"
+   },
+   "History_Content_List_ListenTranslation": {
+      "message": "Прослушать перевод"
+   },
+   "History_Content_List_OnEmpty": {
+      "message": "История пуста."
+   },
+   "History_Content_List_OnFindFailure": {
+      "message": "Ничего не найдено."
+   },
+   "History_Export_OnlyProDesc": {
+      "message": "Чтобы экспортировать Вашу историю переводов в CSV файл, обновитесь до версии Pro"
+   },
+   "History_InPopup": {
+      "message": "Во всплывающем окне"
+   },
+   "History_Options_Delete": {
+      "message": "Очистить историю переводов"
+   },
+   "History_Options_DeleteBar_Cancel": {
+      "message": "Отмена"
+   },
+   "History_Options_DeleteMarked_1": {
+      "message": "Удалить"
+   },
+   "History_Options_DeleteMarked_2": {
+      "message": "отм."
+   },
+   "History_Options_DeleteSelection": {
+      "message": "Отметить записи для удаления"
+   },
+   "History_Options_Delete_AllHeadline": {
+      "message": "Вы уверены?"
+   },
+   "History_Options_Delete_AllNeg": {
+      "message": "Нет"
+   },
+   "History_Options_Delete_AllPos": {
+      "message": "Да"
+   },
+   "History_Options_Delete_AllProposal": {
+      "message": "Вы действительно уверены, что хотите очистить историю переводов?"
+   },
+   "History_Options_Delete_Selected": {
+      "message": "Удалить отмеченные"
+   },
+   "History_Options_ExportAsCsv": {
+      "message": "экспортировать как .csv"
+   },
+   "History_Options_SelectToDelete": {
+      "message": "отметить для удаления"
+   },
+   "History_Options_SelectToDelete_Cancel": {
+      "message": "отмена"
+   },
+   "History_Options_SelectToDelete_DiscardSelection": {
+      "message": "Нажмите \"Отмена\" ещё раз, чтобы убедиться, что это было осознанным решением."
+   },
+   "History_Options_SelectToDelete_MarkAll": {
+      "message": "Отметить всё"
+   },
+   "History_Options_SelectToDelete_UnmarkAll": {
+      "message": "Снять всё"
+   },
+   "Kernel_AddCombination": {
+      "message": "Новая"
+   },
+   "Kernel_AppDescription": {
+      "message": "Перевод, произношение, транслитерация на веб-страницах и во всплывающем окне для 100+ языков."
+   },
+   "Kernel_AppName": {
+      "message": "Instant Translate: выделяйте и переводите"
+   },
+   "Kernel_ClearInput": {
+      "message": "Очистить поле ввода"
+   },
+   "Kernel_Context_Into": {
+      "message": "на"
+   },
+   "Kernel_Date_Apr": {
+      "message": "апр"
+   },
+   "Kernel_Date_Aug": {
+      "message": "авг"
+   },
+   "Kernel_Date_Dec": {
+      "message": "дек"
+   },
+   "Kernel_Date_Feb": {
+      "message": "фев"
+   },
+   "Kernel_Date_Jan": {
+      "message": "янв"
+   },
+   "Kernel_Date_Jul": {
+      "message": "июл"
+   },
+   "Kernel_Date_Jun": {
+      "message": "июн"
+   },
+   "Kernel_Date_Mar": {
+      "message": "мар"
+   },
+   "Kernel_Date_May": {
+      "message": "мая"
+   },
+   "Kernel_Date_Nov": {
+      "message": "ноя"
+   },
+   "Kernel_Date_Oct": {
+      "message": "окт"
+   },
+   "Kernel_Date_Sep": {
+      "message": "сен"
+   },
+   "Kernel_Highlight": {
+      "message": "Выделить"
+   },
+   "Kernel_HistoryTitle": {
+      "message": "История"
+   },
+   "Kernel_Lang_Afrikaans": {
+      "message": "Африкаанс"
+   },
+   "Kernel_Lang_Albanian": {
+      "message": "Албанский"
+   },
+   "Kernel_Lang_Amharic": {
+      "message": "Амхарский"
+   },
+   "Kernel_Lang_Arabic": {
+      "message": "Арабский"
+   },
+   "Kernel_Lang_Armenian": {
+      "message": "Армянский"
+   },
+   "Kernel_Lang_Auto": {
+      "message": "Автоматическое опред."
+   },
+   "Kernel_Lang_Azerbaijani": {
+      "message": "Азербайджанский"
+   },
+   "Kernel_Lang_Basque": {
+      "message": "Баскский"
+   },
+   "Kernel_Lang_Belarusian": {
+      "message": "Белорусский"
+   },
+   "Kernel_Lang_Bengali": {
+      "message": "Бенгальский"
+   },
+   "Kernel_Lang_Bosnian": {
+      "message": "Боснийский"
+   },
+   "Kernel_Lang_Bulgarian": {
+      "message": "Болгарский"
+   },
+   "Kernel_Lang_Catalan": {
+      "message": "Каталанский"
+   },
+   "Kernel_Lang_Cebuano": {
+      "message": "Себуано"
+   },
+   "Kernel_Lang_Chichewa": {
+      "message": "Чичева"
+   },
+   "Kernel_Lang_ChineseSimplified": {
+      "message": "Китайский упрощенный"
+   },
+   "Kernel_Lang_ChineseTraditional": {
+      "message": "Китайский традиционный"
+   },
+   "Kernel_Lang_Corsican": {
+      "message": "Корсиканский"
+   },
+   "Kernel_Lang_Croatian": {
+      "message": "Хорватский"
+   },
+   "Kernel_Lang_Czech": {
+      "message": "Чешский"
+   },
+   "Kernel_Lang_Danish": {
+      "message": "Датский"
+   },
+   "Kernel_Lang_Dutch": {
+      "message": "Голландский"
+   },
+   "Kernel_Lang_English": {
+      "message": "Английский"
+   },
+   "Kernel_Lang_Esperanto": {
+      "message": "Эсперанто"
+   },
+   "Kernel_Lang_Estonian": {
+      "message": "Эстонский"
+   },
+   "Kernel_Lang_Filipino": {
+      "message": "Филиппинский"
+   },
+   "Kernel_Lang_Finnish": {
+      "message": "Финский"
+   },
+   "Kernel_Lang_French": {
+      "message": "Французский"
+   },
+   "Kernel_Lang_Frisian": {
+      "message": "Фризский"
+   },
+   "Kernel_Lang_Galician": {
+      "message": "Галисийский"
+   },
+   "Kernel_Lang_Georgian": {
+      "message": "Грузинский"
+   },
+   "Kernel_Lang_German": {
+      "message": "Немецкий"
+   },
+   "Kernel_Lang_Greek": {
+      "message": "Греческий"
+   },
+   "Kernel_Lang_Gujarati": {
+      "message": "Гуджарати"
+   },
+   "Kernel_Lang_HaitianCreole": {
+      "message": "Креольский"
+   },
+   "Kernel_Lang_Hausa": {
+      "message": "Хауса"
+   },
+   "Kernel_Lang_Hawaiian": {
+      "message": "Гавайский"
+   },
+   "Kernel_Lang_Hebrew": {
+      "message": "Иврит"
+   },
+   "Kernel_Lang_Hindi": {
+      "message": "Хинди"
+   },
+   "Kernel_Lang_Hmong": {
+      "message": "Хмонг"
+   },
+   "Kernel_Lang_Hungarian": {
+      "message": "Венгерский"
+   },
+   "Kernel_Lang_Icelandic": {
+      "message": "Исландский"
+   },
+   "Kernel_Lang_Igbo": {
+      "message": "Игбо"
+   },
+   "Kernel_Lang_Indonesian": {
+      "message": "Индонезийский"
+   },
+   "Kernel_Lang_Irish": {
+      "message": "Ирландский"
+   },
+   "Kernel_Lang_Italian": {
+      "message": "Итальянский"
+   },
+   "Kernel_Lang_Japanese": {
+      "message": "Японский"
+   },
+   "Kernel_Lang_Javanese": {
+      "message": "Яванский"
+   },
+   "Kernel_Lang_Kannada": {
+      "message": "Каннада"
+   },
+   "Kernel_Lang_Kazakh": {
+      "message": "Казахский"
+   },
+   "Kernel_Lang_Khmer": {
+      "message": "Камбоджийский"
+   },
+   "Kernel_Lang_Korean": {
+      "message": "Корейский"
+   },
+   "Kernel_Lang_Kurdish": {
+      "message": "Курдский"
+   },
+   "Kernel_Lang_KurdishKurmanji": {
+      "message": "Курманджи"
+   },
+   "Kernel_Lang_Kyrgyz": {
+      "message": "Киргизский"
+   },
+   "Kernel_Lang_Lao": {
+      "message": "Лаосский"
+   },
+   "Kernel_Lang_Latin": {
+      "message": "Латинский"
+   },
+   "Kernel_Lang_Latvian": {
+      "message": "Латвийский"
+   },
+   "Kernel_Lang_Lithuanian": {
+      "message": "Литовский"
+   },
+   "Kernel_Lang_Luxembourgish": {
+      "message": "Люксембургский"
+   },
+   "Kernel_Lang_Macedonian": {
+      "message": "Македонский"
+   },
+   "Kernel_Lang_Malagasy": {
+      "message": "Малагасийский"
+   },
+   "Kernel_Lang_Malay": {
+      "message": "Малайский"
+   },
+   "Kernel_Lang_Malayalam": {
+      "message": "Малаялам"
+   },
+   "Kernel_Lang_Malayam": {
+      "message": "Малайялам"
+   },
+   "Kernel_Lang_Maltese": {
+      "message": "Мальтийский"
+   },
+   "Kernel_Lang_Maori": {
+      "message": "Маори"
+   },
+   "Kernel_Lang_Marathi": {
+      "message": "Маратхи"
+   },
+   "Kernel_Lang_Mongolian": {
+      "message": "Монгольский"
+   },
+   "Kernel_Lang_Myanmar": {
+      "message": "Бирманский"
+   },
+   "Kernel_Lang_MyanmarBurmese": {
+      "message": "Бирманский"
+   },
+   "Kernel_Lang_Nepali": {
+      "message": "Непальский"
+   },
+   "Kernel_Lang_Norwegian": {
+      "message": "Норвежский"
+   },
+   "Kernel_Lang_Pashto": {
+      "message": "Пашто"
+   },
+   "Kernel_Lang_Persian": {
+      "message": "Персидский"
+   },
+   "Kernel_Lang_Polish": {
+      "message": "Польский"
+   },
+   "Kernel_Lang_Portuguese": {
+      "message": "Португальский"
+   },
+   "Kernel_Lang_Punjabi": {
+      "message": "Панджабский"
+   },
+   "Kernel_Lang_Romanian": {
+      "message": "Румынский"
+   },
+   "Kernel_Lang_Russian": {
+      "message": "Русский"
+   },
+   "Kernel_Lang_Samoan": {
+      "message": "Самоанский"
+   },
+   "Kernel_Lang_ScotsGaelic": {
+      "message": "Шотландский (кельтский)"
+   },
+   "Kernel_Lang_Serbian": {
+      "message": "Сербский"
+   },
+   "Kernel_Lang_Sesotho": {
+      "message": "Сесото"
+   },
+   "Kernel_Lang_Shona": {
+      "message": "Шона"
+   },
+   "Kernel_Lang_Sindhi": {
+      "message": "Синдхи"
+   },
+   "Kernel_Lang_Sinhala": {
+      "message": "Сингальский"
+   },
+   "Kernel_Lang_Slovak": {
+      "message": "Словацкий"
+   },
+   "Kernel_Lang_Slovenian": {
+      "message": "Словенский"
+   },
+   "Kernel_Lang_Somali": {
+      "message": "Сомалийский"
+   },
+   "Kernel_Lang_Spanish": {
+      "message": "Испанский"
+   },
+   "Kernel_Lang_Sundanese": {
+      "message": "Сунданский"
+   },
+   "Kernel_Lang_Swahili": {
+      "message": "Суахили"
+   },
+   "Kernel_Lang_Swedish": {
+      "message": "Шведский"
+   },
+   "Kernel_Lang_Tajik": {
+      "message": "Таджикский"
+   },
+   "Kernel_Lang_Tamil": {
+      "message": "Тамильский"
+   },
+   "Kernel_Lang_Telugu": {
+      "message": "Телугу"
+   },
+   "Kernel_Lang_Thai": {
+      "message": "Тайский"
+   },
+   "Kernel_Lang_Turkish": {
+      "message": "Турецкий"
+   },
+   "Kernel_Lang_Ukrainian": {
+      "message": "Украинский"
+   },
+   "Kernel_Lang_Urdu": {
+      "message": "Урду"
+   },
+   "Kernel_Lang_Uzbek": {
+      "message": "Узбекский"
+   },
+   "Kernel_Lang_Vietnamese": {
+      "message": "Вьетнамский"
+   },
+   "Kernel_Lang_Welsh": {
+      "message": "Валлийский"
+   },
+   "Kernel_Lang_Xhosa": {
+      "message": "Кхоса"
+   },
+   "Kernel_Lang_Yiddish": {
+      "message": "Идиш"
+   },
+   "Kernel_Lang_Yoruba": {
+      "message": "Йоруба"
+   },
+   "Kernel_Lang_Zulu": {
+      "message": "Зулу"
+   },
+   "Kernel_Listen": {
+      "message": "Воспроизвести"
+   },
+   "Kernel_Loading": {
+      "message": "Загрузка ..."
+   },
+   "Kernel_Network_Error": {
+      "message": "Ошибка соединения"
+   },
+   "Kernel_Network_Error_DataLoading": {
+      "message": "Не удалось загрузить данные из-за возможных проблем с Интернет соединением."
+   },
+   "Kernel_OpenGt": {
+      "message": "На Google Translate"
+   },
+   "Kernel_OpenHistory": {
+      "message": "Открыть историю переводов"
+   },
+   "Kernel_OpenSettings": {
+      "message": "Открыть настройки приложения"
+   },
+   "Kernel_OptionAgree": {
+      "message": "Я согласен"
+   },
+   "Kernel_OptionDisabled": {
+      "message": "отключено"
+   },
+   "Kernel_OptionEnabled": {
+      "message": "включено"
+   },
+   "Kernel_Original": {
+      "message": "Воспр. оригинал"
+   },
+   "Kernel_RemoveCombination": {
+      "message": "Удалить эту комбинацию"
+   },
+   "Kernel_RemoveFromRecent": {
+      "message": "Убрать из недавно использованных"
+   },
+   "Kernel_Reverse": {
+      "message": "Поменять языки"
+   },
+   "Kernel_SearchPlaceholder": {
+      "message": "Поиск ..."
+   },
+   "Kernel_SettingsTitle": {
+      "message": "Настройки"
+   },
+   "Kernel_Translation": {
+      "message": "Перевод"
+   },
+   "Kernel_Unpin": {
+      "message": "Открепить"
+   },
+   "Kernel_Vowels": {
+      "message": "уеыаоэяию"
+   },
+   "MicAccess_HowToUnlock": {
+      "message": "Удалите \u003Cb>$id$\u003C/b> из заблокированных в исключениях для микрофона. После этого \u003Cb>\u003Ca href=\"../public/mic_access.html\">нажмите сюда\u003C/a>\u003C/b>.",
+      "placeholders": {
+         "id": {
+            "content": "$1",
+            "example": "chrome-extension://ihmgiclibbndffejedjimfjmfoabpcke/"
+         }
+      }
+   },
+   "MicAccess_Note": {
+      "message": "Для распознавания речи Instant Translate нужен доступ к микрофону Вашего компьютера."
+   },
+   "MicAccess_PageTitle": {
+      "message": "Доступ к микрофону"
+   },
+   "MicAccess_Title": {
+      "message": "Микрофон"
+   },
+   "MicAccess_UnlockButton": {
+      "message": "разрешить в настройках контента"
+   },
+   "Options_OrUpgrade": {
+      "message": "Вы также можете приобрести про-версию, чтобы убрать монетизацию и открыть новые функции:"
+   },
+   "Options_Pro": {
+      "message": "У Вас уже Instant Translate Pro!"
+   },
+   "Ph_Question": {
+      "message": "Мы были бы рады Вашей поддержке. Найдете пару секунд, чтобы проголосовать за нас?"
+   },
+   "Ph_Vote": {
+      "message": "Проголосовать сейчас"
+   },
+   "Ph_What": {
+      "message": "Instant Translate был номинирован на\u003Cbr>\u003Cb>лучшее приложение года для iMessage\u003C/b> на Product Hunt"
+   },
+   "Promo_Android": {
+      "message": "Андроида"
+   },
+   "Promo_Android_Foreword": {
+      "message": "История, распознавание речи и высокое качество на ваших Андроидов!"
+   },
+   "Promo_Available": {
+      "message": "Доступно в"
+   },
+   "Promo_Checkout": {
+      "message": "Instant Translate теперь и для %platform%!"
+   },
+   "Promo_Chrome": {
+      "message": "Хрома"
+   },
+   "Promo_Chrome_Foreword": {
+      "message": "Про версия с дополнительными возможностями."
+   },
+   "Promo_Firefox": {
+      "message": "Файрфокса"
+   },
+   "Promo_Firefox_Foreword": {
+      "message": "Наш чудесный переводчик теперь есть и для Файрфокса."
+   },
+   "Promo_Ios": {
+      "message": "Айфона/Айпэда"
+   },
+   "Promo_Mac": {
+      "message": "Мака"
+   },
+   "Promo_Mac_Foreword": {
+      "message": "Всегда под рукой даже вне браузера."
+   },
+   "Promo_ShortAndroid": {
+      "message": "Для Андроида"
+   },
+   "Promo_ShortChrome": {
+      "message": "Для Хрома"
+   },
+   "Promo_ShortEdge": {
+      "message": "Для Edge"
+   },
+   "Promo_ShortFirefox": {
+      "message": "Для Файрфокс"
+   },
+   "Promo_ShortIos": {
+      "message": "Для Айфона/Айпэда"
+   },
+   "Promo_ShortMac": {
+      "message": "Для Мак ОС"
+   },
+   "Promo_ShortWindows": {
+      "message": "Для Виндоус"
+   },
+   "Promo_Try": {
+      "message": "Попробуйте Instant Translate для"
+   },
+   "Promo_Windows": {
+      "message": "Виндоус"
+   },
+   "Promo_Windows_Foreword": {
+      "message": "Всегда под рукой даже вне браузера."
+   },
+   "Settings_Action": {
+      "message": "Действие"
+   },
+   "Settings_BrowserReserved": {
+      "message": "используется в браузере"
+   },
+   "Settings_Close": {
+      "message": "закрыть"
+   },
+   "Settings_Combo": {
+      "message": "Комбинация"
+   },
+   "Settings_Contact": {
+      "message": "Связь"
+   },
+   "Settings_Contacts": {
+      "message": "Контакты"
+   },
+   "Settings_Context": {
+      "message": "Конт. меню"
+   },
+   "Settings_DestLang": {
+      "message": "На"
+   },
+   "Settings_Examples": {
+      "message": "Например:"
+   },
+   "Settings_Gt": {
+      "message": "Показывать на Google Translate"
+   },
+   "Settings_Interface_Autocorrection": {
+      "message": "Автоисправление"
+   },
+   "Settings_Interface_Autocorrection_Description": {
+      "message": "Instant Translate будет автоматически исправлять неправильно написанные слова."
+   },
+   "Settings_Interface_InstantTranslation": {
+      "message": "Умный перевод"
+   },
+   "Settings_Interface_InstantTranslation_Description": {
+      "message": "Во всплывающем окне текст переводится автоматически по окончанию печати."
+   },
+   "Settings_Interface_Save": {
+      "message": "Сохранять содержимое"
+   },
+   "Settings_Interface_Save_Description": {
+      "message": "... текстового поля при закрытии всплывающего окна."
+   },
+   "Settings_Interface_ShowTooltipOriginal": {
+      "message": "Показывать оригинал во всплывающем окне"
+   },
+   "Settings_Interface_ShowTooltipOriginal_Description": {
+      "message": "Чтобы можно было озвучить и его тоже, а не только перевод."
+   },
+   "Settings_Interface_ShowTranslit": {
+      "message": "Показывать транслитерацию"
+   },
+   "Settings_Interface_ShowTranslit_Description": {
+      "message": "... для языков, у которых она есть (например, русский, китайский)."
+   },
+   "Settings_Monetization": {
+      "message": "Монетизация"
+   },
+   "Settings_Monetization_Description": {
+      "message": "Активируя это, Вы соглашаетесь принимать участие в нашей скромной монетизационной кампании ради дальнейшей экспансии Instant Translate на другие платформы.\u003Cbr>\u003Cbr>Сама кампания заключается в том, что в российских интернет-магазинах вам будет показан аккуратный бар, где будет предложена более дешёвая цена и ссылка на магазин, где можно купить дешевле.\u003Cbr>\u003Cbr>\u003Cimg src='/resources/images/metabar.png' class='example-image'>"
+   },
+   "Settings_Off": {
+      "message": "ВЫКЛ"
+   },
+   "Settings_On": {
+      "message": "ВКЛ"
+   },
+   "Settings_OtherApps": {
+      "message": "Другие приложения и контакты"
+   },
+   "Settings_OtherAppsDesc": {
+      "message": "У Instant Translate есть приложения под все основные устройства."
+   },
+   "Settings_PressDesiredKeys": {
+      "message": "Кликните сюда и зажмите желаемые кнопки ..."
+   },
+   "Settings_SB_Facebook": {
+      "message": "Фейсбук"
+   },
+   "Settings_SB_Mail": {
+      "message": "Написать письмо"
+   },
+   "Settings_SB_Site": {
+      "message": "Наш сайт"
+   },
+   "Settings_SB_Twitter": {
+      "message": "Твиттер"
+   },
+   "Settings_Save": {
+      "message": "Сохранить изменения"
+   },
+   "Settings_SetNewCombo": {
+      "message": "Создать новую комбинацию"
+   },
+   "Settings_Share": {
+      "message": "Поделиться"
+   },
+   "Settings_ShareText": {
+      "message": "Я выделяю и перевожу слова прямо на веб-сайтах при помощи Instant Translate!"
+   },
+   "Settings_SourceLang": {
+      "message": "С"
+   },
+   "Settings_Tabs_General": {
+      "message": "Общее"
+   },
+   "Settings_Tabs_Popup": {
+      "message": "Всплыв. окно"
+   },
+   "Settings_Tooltip": {
+      "message": "Показывать во вспл. окошке"
+   },
+   "Settings_Translation_Context": {
+      "message": "Контекстное меню"
+   },
+   "Settings_Translation_Context_Description": {
+      "message": "Перевод выделенного текста при помощи кнопки в контекстном меню браузера."
+   },
+   "Settings_Translation_Context_NewTab": {
+      "message": "Показывать на Google Translate"
+   },
+   "Settings_Translation_Context_OpenDescription": {
+      "message": "Показывать перевод"
+   },
+   "Settings_Translation_Context_Tooltip": {
+      "message": "Показ. во всплывающем окне"
+   },
+   "Settings_Translation_History": {
+      "message": "История переводов"
+   },
+   "Settings_Translation_History_Description": {
+      "message": "Сохранять все, что вы переводите, чтобы потом иметь возможность в любой момент это просмотреть."
+   },
+   "Settings_Translation_KeyCombos": {
+      "message": "Горячие клавиши"
+   },
+   "Settings_Translation_KeyCombos_AddCombo": {
+      "message": "Дополнительные пары языков \u003Cspan>(только на страницах)\u003C/span>"
+   },
+   "Settings_Translation_KeyCombos_Description": {
+      "message": "Каждой паре языков соответствует несколько настроек: горячие клавиши, нужно ли добавлять эти языки в контекстное меню, а также действие, которое должно быть выполнено при нажатии на кнопку в контекстном меню."
+   },
+   "Settings_Translation_KeyCombos_MainCombo": {
+      "message": "Основная пара языков \u003Cspan>(такая же, как и во всплывающем окне)\u003C/span>"
+   },
+   "Tooltip_Highlight": {
+      "message": "Выделить оригинальный текст на странице"
+   },
+   "Tooltip_ListenOriginal": {
+      "message": "Воспроизвести оригинальный текст"
+   },
+   "Tooltip_ShowReversed": {
+      "message": "Поменять языки местами и показать перевод еще раз"
+   },
+   "Tooltip_Unpin": {
+      "message": "Открепить всплывающее окошко, чтобы оно стало перетягиваемым по экрану"
+   },
+   "Tootip_OpenLink": {
+      "message": "Открыть этот перевод в новой вкладке Гугл Транслейт"
+   },
+   "Tour_BecomePro": {
+      "message": "Стать Pro!"
+   },
+   "Tour_DoubleClick": {
+      "message": "Перевод по двойному клику"
+   },
+   "Tour_DoubleClickDesc": {
+      "message": "Перевод слов на странице по двойному клику на них."
+   },
+   "Tour_GotIt": {
+      "message": "Начать использование!"
+   },
+   "Tour_Mon": {
+      "message": "Поддержите нас"
+   },
+   "Tour_MonCis": {
+      "message": "Если Вы не хотите быть Pro"
+   },
+   "Tour_MonCisDesc": {
+      "message": "Поддержка и разработка этого приложения требует большого количества как человеческих, так и финансовых ресурсов.\u003Cbr>\u003Cbr>Мы сотрудничаем с \u003Cb>Яндекс.Советником\u003C/b>, чтобы покрыть эти затраты. Таким образом, иногда Вы будете видеть подсказки о более низких ценах в магазинах."
+   },
+   "Tour_MonDesc": {
+      "message": "Как вы понимаете, поддерживать и разрабатывать это приложение непросто. Это отнимает много времени и денег. Вы бы могли несказанно помочь нам, включив эту опцию: таким образом, мы сможем анонимно сохранять несуществующие домены в маркетинговых целях, не связанных с этим приложением. Мы надеемся на ваше сотрудничество и что вы сделаете правильный выбор!"
+   },
+   "Tour_MonLater": {
+      "message": "* изменяется в настройках"
+   },
+   "Tour_MonNotChromeDesc": {
+      "message": "Если Вам нравится использовать это расширение бесплатно, пожалуйста, поддержите нас включив Яндекс.Советник. Он иногда будет показывать Вам более выгодные цены на страницах интернет-магазинов. Это было бы существенным вкладом в поддержку постоянной разработки Instant Translate."
+   },
+   "Tour_OtherApps": {
+      "message": "У нас есть много приложений"
+   },
+   "Tour_Popup": {
+      "message": "Всплывающее окно"
+   },
+   "Tour_PopupDesc": {
+      "message": "Быстрый доступ к текстовому полю и смене языков."
+   },
+   "Tour_Press": {
+      "message": "Нажмите"
+   },
+   "Tour_PressDesc": {
+      "message": "чтобы перевести выделенный текст на любой странице. Изменение \u003Ca target=\"_blank\" href=\"/pages/public/options.html\">в настройках\u003C/a>."
+   },
+   "Tour_ProFeature1": {
+      "message": "Распознавание речи на 40 языках"
+   },
+   "Tour_ProFeature2": {
+      "message": "Экспорт истории переводов в CSV файл"
+   },
+   "Tour_ProFeature3": {
+      "message": "Нет анонимного сбора данных"
+   },
+   "Tour_ProFeature3_Cis": {
+      "message": "Нет Яндекс.Советника и TravelBar"
+   },
+   "Tour_Title": {
+      "message": "Instant Translate: Краткий обзор"
+   },
+   "Tour_WhyPro": {
+      "message": "Повысьте свою продуктивность благодаря нашим функциям в версии Pro!"
+   },
+   "Window_Agreement_Title": {
+      "message": "Монетизация"
+   },
+   "Window_Content_AllLang": {
+      "message": "Все"
+   },
+   "Window_Content_RecentlyUsedLang": {
+      "message": "Недавно использованные"
+   },
+   "Window_Content_TextareaPlaceholder": {
+      "message": "Перевести ..."
+   },
+   "Window_Content_TranslateButton": {
+      "message": "Перевести"
+   },
+   "Window_DontAutocorrect": {
+      "message": "Не исправлять"
+   },
+   "Window_Dropdown_SearchPlaceholder": {
+      "message": "Поиск ..."
+   },
+   "Window_Mw_AgreeButton": {
+      "message": "Я согласен"
+   },
+   "Window_Mw_CisOptInDesc3": {
+      "message": "Вы сможете в любой момент отключить Яндекс.Советник \u003Ca href=\"/pages/public/options.html\" target=\"_blank\">в настройках\u003C/a>, если будете недовольны."
+   },
+   "Window_Mw_LaterButton": {
+      "message": "Напомнить позже"
+   },
+   "Window_Mw_NeverButton": {
+      "message": "Никогда"
+   },
+   "Window_Mw_NotChromeAgreeButton": {
+      "message": "Я согласен на поддержку"
+   },
+   "Window_Mw_NotChromeNotNow": {
+      "message": "Не сейчас"
+   },
+   "Window_Mw_NotChromeUpgradeDesc2": {
+      "message": "Мы сотрудничаем с \u003Cb>Яндекс.Советником\u003C/b> и \u003Cb>TravelBar\u003C/b>, чтобы покрыть эти затраты. Таким образом, иногда Вы будете видеть более низкие цены на устройства, отели и билеты в магазинах и на бронировочных сайтах."
+   },
+   "Window_Mw_OptInButton": {
+      "message": "Я согласен поддерживать Instant Translate"
+   },
+   "Window_Mw_OptInDesc4": {
+      "message": "Пожалуйста, дайте свое согласие на поддержку этого приложения, если Вы хотите, чтобы Instant Translate продолжал постоянно обновляться и совершенствоваться."
+   },
+   "Window_Mw_OptInLater": {
+      "message": "Не сейчас"
+   },
+   "Window_Mw_OptInTitle": {
+      "message": "Поддержка Instant Translate"
+   },
+   "Window_Mw_RateButton": {
+      "message": "Оценить сейчас"
+   },
+   "Window_Mw_RateDesc": {
+      "message": "Если Вам нравится like Instant Translate, не могли Вы бы найти минутку, чтобы поставить нам оценку в Chrome Web Store?"
+   },
+   "Window_Mw_RateTitle": {
+      "message": "Нравится Instant Translate?"
+   },
+   "Window_Mw_UpgradeButton": {
+      "message": "Обновить до Pro ($price$)",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "2,99 USD"
+         }
+      }
+   },
+   "Window_Mw_UpgradeDesc1": {
+      "message": "Поддержка и разработка этого приложения требует большого количества как человеческих, так и финансовых ресурсов."
+   },
+   "Window_Mw_UpgradeDesc2": {
+      "message": "Мы сотрудничаем с \u003Cb>Яндекс.Советником\u003C/b> и \u003Cb>TravelBar\u003C/b>, чтобы покрыть эти затраты. Таким образом, иногда Вы будете видеть более низкие цены на устройства, отели и билеты в магазинах и на бронировочных сайтах. Также Вы можете приобрести версию Pro, чтобы не видеть этого."
+   },
+   "Window_Mw_UpgradeDesc3": {
+      "message": "Все преимущества версии Pro:"
+   },
+   "Window_Mw_UpgradeDesc4": {
+      "message": "Вы также можете приобрести \u003Cb>Instant Translate Pro\u003C/b> с дополнительными функциями и без всякой монетизации."
+   },
+   "Window_Mw_UpgradeTitle": {
+      "message": "Соглашение об использовании"
+   },
+   "Window_Offline": {
+      "message": "Нет соединения с интернетом"
+   },
+   "Window_OfflineDesc": {
+      "message": "Нельзя переводить без него"
+   },
+   "Window_Stt_MaybeLater": {
+      "message": "не сейчас"
+   },
+   "Window_Stt_OnlyPro": {
+      "message": "Только в про-версии"
+   },
+   "Window_Stt_OnlyProDesc": {
+      "message": "Чтобы использовать распознавание речи, обновитесь до про-версии"
+   },
+   "Window_Stt_ProUpgrade": {
+      "message": "Обновить ($price$)",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "2,99 USD"
+         }
+      }
+   },
+   "Window_TooSmall": {
+      "message": "В таком маленьком окне работать не получится. Пожалуйста, растяните окно обратно..."
+   },
+   "Window_TransType_NewLine": {
+      "message": "новая строка"
+   },
+   "Window_TransType_Reassign": {
+      "message": "В дальнейшем наводите мышь на кнопку перевода, чтобы переопределить комбинации."
+   },
+   "Window_TransType_Translate": {
+      "message": "перевести"
+   }
+}

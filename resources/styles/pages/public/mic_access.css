@@ -1,0 +1,67 @@
+body {
+    margin: 170px 0 0 0;
+    text-align: center;
+    font-family: Tahoma, Arial, Ubuntu;
+    overflow: hidden;
+}
+
+.img {
+    width: 48px;
+    height: 85px;
+    background: url(../../../images/ui_elements/big-mic.png);
+    background-size: 48px 85px;
+    margin: 20px auto;
+}
+
+.head {
+    font-weight: 700;
+    font-size: 21px;
+}
+
+.note {
+    font-size: 16px;
+    max-width: 320px;
+    margin: 5px auto;
+}
+
+.subnote {
+    display: none;
+    font-size: 13px;
+    color: #a4a5a6;
+    margin-top: 20px;
+    text-align: left;
+    border-top: 1px solid rgb(233,233,233);
+    padding: 20px;
+}
+
+button {
+    display: none;
+    outline: none;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px;
+    color: #3D87C8;
+    border: 1px solid #3D87C8;
+    background: #FFF;
+    border-radius: 4px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: Tahoma, Arial, Ubuntu;
+    -webkit-user-select: none;
+}
+
+button:hover {
+    cursor: pointer;
+    color: #6ba1c8;
+    border: 1px solid #6ba1c8;
+}
+
+a {
+    color: #3D87C8;
+    text-decoration: underline;
+}
+
+a:hover {
+    cursor: pointer;
+    text-decoration: none;
+}
